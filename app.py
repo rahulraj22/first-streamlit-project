@@ -33,8 +33,8 @@ image_lottie_animation = Image.open('./images/animation.jpg')
 # Lets set the header section:--
 with st.container():
     st.subheader("Hi, I am Rahul :wave:")
-    st.title("A Data Analyst from India")
-    st.write("I am passionate about finding ways to use Python and VBA to be more efficient and effective in business settings.")
+    st.title("A Web Developer from India")
+    st.write("I am passionate about finding ways to use C++/Js/Python to be more efficient and effective in business settings.")
     st.write("[Learn more>](https://rahulraj22.github.io/cv)")
 
 # What I do in detail:------
